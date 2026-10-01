@@ -16,6 +16,16 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.6",
+          "buildVersion": "6",
+          "date": "2026-10-01",
+          "localizedDescription": "LyricFlow v0.6 held-word timing + tighter Apple Music lyric spacing",
+          "downloadURL": "https://harisadamuk-byte.github.io/lyricflow-updates/LyricFlow-0.6-6.ipa",
+          "size": 114504,
+          "sha256": "67a3361501a263a3ba191c4fd6694f08c6d6a185429350396fb23e780ec71160",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.5",
           "buildVersion": "5",
           "date": "2026-10-01",
