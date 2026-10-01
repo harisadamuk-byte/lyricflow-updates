@@ -1,0 +1,38 @@
+{
+  "name": "LyricFlow Updates",
+  "subtitle": "Personal LyricFlow iPhone builds",
+  "description": "Updates for the LyricFlow Apple Music lyric companion.",
+  "iconURL": "https://harisadamuk-byte.github.io/lyricflow-updates/icon.png",
+  "tintColor": "#6B313B",
+  "apps": [
+    {
+      "name": "LyricFlow",
+      "bundleIdentifier": "com.local.LyricFlow",
+      "developerName": "LyricFlow",
+      "subtitle": "Enhanced word-by-word lyrics alongside Apple Music.",
+      "localizedDescription": "Displays locally supplied enhanced LRC files in sync with the song playing in Apple Music, including sub-word timing and overlapping background vocals.",
+      "iconURL": "https://harisadamuk-byte.github.io/lyricflow-updates/icon.png",
+      "tintColor": "#6B313B",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "0.4",
+          "buildVersion": "4",
+          "date": "2026-10-01",
+          "localizedDescription": "LyricFlow update",
+          "downloadURL": "https://harisadamuk-byte.github.io/lyricflow-updates/LyricFlow-0.4-4.ipa",
+          "size": 111203,
+          "sha256": "4358f5c7b916020fef09129ec97eddf6325e2f49230769445ec3ac92b0c5968c",
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "LyricFlow reads the song currently playing in Apple Music so it can display your locally stored synchronized lyrics in time with playback."
+        }
+      }
+    }
+  ],
+  "news": []
+}
