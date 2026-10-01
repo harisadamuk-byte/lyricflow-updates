@@ -16,6 +16,16 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.5",
+          "buildVersion": "5",
+          "date": "2026-10-01",
+          "localizedDescription": "LyricFlow v0.5 compact lyrics + expandable Now Playing controls",
+          "downloadURL": "https://harisadamuk-byte.github.io/lyricflow-updates/LyricFlow-0.5-5.ipa",
+          "size": 114080,
+          "sha256": "68a4b6cb0941c998393bb85b26852395932021561f80c5f71e926c96a3ac5956",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.4",
           "buildVersion": "4",
           "date": "2026-10-01",
